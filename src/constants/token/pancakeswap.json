@@ -11,11 +11,12 @@
   "keywords": ["pancake", "default"],
   "tokens": [
     {
-      "name": "Goose Golden Egg",
-      "symbol": "EGG",
-      "address": "0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6",
+      "name": "Pill",
+      "symbol": "PILL",
+      "address": "0x3f84A87B57389DD6AAD3d8ca62F235f40C323e67",
       "chainId": 56,
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "/images/coins/PILL.png"
     },
     {
       "name": "AUTOv2",
